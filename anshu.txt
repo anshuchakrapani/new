@@ -12,3 +12,4 @@ now say hello.
 
 This is my change from the online repository 
 
+this is my global change.
